@@ -1,0 +1,27 @@
+.flex{
+    display: flex;
+}
+
+.item-center{
+    align-items: center;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.btn{
+    background:  #e50914;
+    color: white;
+    padding: 9px 40px;
+    border-radius: 4px;
+}
+
